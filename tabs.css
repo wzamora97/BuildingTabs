@@ -1,0 +1,12 @@
+.nav-tab{
+  background-color: yellow;
+  color: navy;
+  border-style: solid;
+}
+.navigation{
+  color: green;
+  text-decoration: none;
+}
+.nav-tab:hover{
+  color: pink;
+}
